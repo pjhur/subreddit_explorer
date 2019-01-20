@@ -13,7 +13,7 @@ PySpark - Please refer to instructions for your operating system.
 
 ## What is a Subreddit?
 
-A Subreddit is a forum dedicated to a specific topic on the social media website https://www.reddit.com. According to Amazon Alex, Reddit.com is the 5th most visited website in the US (as of January 2019). Its users post approximately three million comments per day.
+A Subreddit is a forum dedicated to a specific topic on the social media website https://www.reddit.com. According to Amazon Alexa, Reddit.com is the 5th most visited website in the US (as of January 2019). Its users post approximately three million comments per day.
 
 ## Web Application
 
