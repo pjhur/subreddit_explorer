@@ -11,6 +11,10 @@ If you have Jupyter Notebook and PySpark installed on your machine, you can simp
 Jupyter Notebook - See https://jupyter.org/ for instructions. <br>
 PySpark - Please refer to instructions for your operating system.
 
+## Web Application
+
+This project is available online at: http://www.apexquery.com
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
