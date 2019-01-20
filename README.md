@@ -13,7 +13,8 @@ PySpark - Please refer to instructions for your operating system.
 
 ## Web Application
 
-This project is available online at: http://www.apexquery.com
+This project is available online at: http://www.apexquery.com <br>
+The web application gives results generated using 97 million comments from September 2018.
 
 ## License
 
