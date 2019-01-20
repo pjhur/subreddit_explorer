@@ -11,6 +11,10 @@ If you have Jupyter Notebook and PySpark installed on your machine, you can simp
 Jupyter Notebook - See https://jupyter.org/ for instructions. <br>
 PySpark - Please refer to instructions for your operating system.
 
+## What is a Subreddit?
+
+A Subreddit is a forum dedicated to a specific topic on the social media website https://www.reddit.com. According to Amazon Alex, Reddit.com is the 5th most visited website in the US (as of January 2019). Its users post approximately three million comments per day.
+
 ## Web Application
 
 This project is available online at: http://www.apexquery.com <br>
