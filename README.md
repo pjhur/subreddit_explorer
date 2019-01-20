@@ -8,7 +8,7 @@ If you have Jupyter Notebook and PySpark installed on your machine, you can simp
 
 ### Prerequisites
 
-Jupyter Notebook - See https://jupyter.org/ for instructions.
+Jupyter Notebook - See https://jupyter.org/ for instructions. <br>
 PySpark - Please refer to instructions for your operating system.
 
 ## License
